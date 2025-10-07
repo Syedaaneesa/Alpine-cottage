@@ -14,7 +14,7 @@ Below are the preview images of the final website design and structure:
 ![Home Page](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_11_PMs.png)
 ![About Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_11_PM.png)
 ![Rooms Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_11_PMs.png)
-![Gallery Section](IMAGE_LINK_4)
+![Gallery Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_12_PM%20(1).png)
 ![Contact Section](IMAGE_LINK_5)
 ![Footer Section](IMAGE_LINK_6)
 
