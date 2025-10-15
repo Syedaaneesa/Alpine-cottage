@@ -9,7 +9,7 @@ You can visit the live site here:
 
 ## 📸 Project Preview
 
-Below are the preview images of the final website design and structure:
+Below are the images of this website and also all the components there:
 
 ![Home Page](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_11_PMs.png)
 ![About Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_11_PM.png)
