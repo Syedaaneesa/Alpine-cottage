@@ -73,7 +73,7 @@ This website was fully built in WordPress, incorporating custom theme developmen
 ---
 
 ## 📬 Contact
-If you’re looking for WordPress design, Elementor customization, or complete website development, I’d be happy to help — feel free to get in touch!
+If you need WordPress design, Elementor customization, or full-scale website development, I’d be glad to assist — don’t hesitate to reach out!
 
 **👤 Developer:** Syeda Aneesa  
 **📧 Email:** saneesa@zeestmedia.com]  
