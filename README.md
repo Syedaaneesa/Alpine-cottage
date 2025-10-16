@@ -24,7 +24,7 @@ Below are the images of this website and also all the components there:
 
 ## 🛠️ Project Overview
 
-This website was **developed entirely in WordPress**, utilizing a combination of custom theme development, plugin configuration, and manual design adjustments to match the brand’s aesthetic.
+This website was fully built in WordPress, incorporating custom theme development, plugin setup, and tailored design refinements to align with the brand’s visual identity.
 
 ### Key Highlights:
 - Responsive, modern layout optimized for desktop and mobile.
