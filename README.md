@@ -24,7 +24,7 @@ Below are the images showcasing the website and its key components:
 
 ## 🛠️ Project Overview
 
-This website was fully built in WordPress, incorporating custom theme development, plugin setup, and tailored design refinements to align with the brand’s visual identity.
+This website was completely developed in WordPress, featuring a custom-built theme, plugin integrations, and design enhancements crafted to match the brand’s visual identity.
 
 ### Key Highlights:
 - Responsive, modern layout optimized for desktop and mobile.
@@ -73,7 +73,7 @@ This website was fully built in WordPress, incorporating custom theme developmen
 ---
 
 ## 📬 Contact
-If you’re looking for expert WordPress or Elementor solutions, I’d be delighted to work with you — feel free to reach out!
+If you need professional WordPress or Elementor solutions, I’d be glad to collaborate — don’t hesitate to get in touch!
 
 **👤 Developer:** Syeda Aneesa  
 **📧 Email:** saneesa@zeestmedia.com]  
