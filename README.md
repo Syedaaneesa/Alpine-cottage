@@ -16,10 +16,6 @@ Below are the images showcasing the website and its key components:
 ![Rooms Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_11_PMs.png)
 ![Gallery Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_12_PM%20(1).png)
 ![Contact Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_12_PM%20(1)w.png)
-
-
-*(Replace the `IMAGE_LINK_X` placeholders with the actual image URLs from your repo.)*
-
 ---
 
 ## 🛠️ Project Overview
