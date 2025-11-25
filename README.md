@@ -1,6 +1,6 @@
 # 🏡 Alpine Cottage Bed & Breakfast – Modern WordPress Design Project
 
-This project showcases a fully customized WordPress website for Alpine Cottage Bed & Breakfast, crafted to highlight their cozy accommodations and warm hospitality through an elegant, user-friendly design.
+This project features a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to showcase their inviting accommodations and warm hospitality with a clean, user-friendly interface.
 
 You can visit the live site here:  
 🔗 [https://alpinecottagebedandbreakfast.com/](https://alpinecottagebedandbreakfast.com/)
@@ -19,7 +19,7 @@ Below are visuals that highlight the website and its main features:
 
 ## 🛠️ Project Overview
 
-This website was developed completely in WordPress, featuring a custom theme, optimized plugins, and design elements tailored to match the brand’s visual identity.
+This website was fully developed in WordPress, featuring a custom theme, optimized plugins, and design elements carefully tailored to reflect the brand’s visual identity.
 ### Key Highlights:
 A modern, fully responsive layout built for seamless desktop and mobile browsing.
 
@@ -65,13 +65,12 @@ Custom post types for streamlined room management and effortless content updates
 
 ## 💡 Learnings & Achievements
 
-This project presents a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight their cozy accommodations and warm hospitality through an elegant, user-friendly layout.
+This project showcases a fully customized WordPress website for Alpine Cottage Bed & Breakfast, crafted to highlight their cozy accommodations and welcoming hospitality through a clean, user-friendly design.
 
 ---
 
 ## 📬 Contact
-If you’re looking for expert WordPress or Elementor services, I’d be happy to collaborate — feel free to reach out!
-
+If you need professional WordPress or Elementor services, I’d be glad to collaborate—don’t hesitate to get in touch!
 **👤 Developer:** Syeda Aneesa  
 **📧 Email:** saneesa@zeestmedia.com]  
 **🌍 Portfolio:** https://aneesa.zeestmedia.com
