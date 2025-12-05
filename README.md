@@ -1,6 +1,6 @@
 # 🏡 Alpine Cottage Bed & Breakfast – Modern WordPress Design Project
 
-This project showcases a fully customized WordPress website for Alpine Cottage Bed & Breakfast, crafted to highlight their cozy accommodations and warm hospitality through a clean, user-friendly interface.
+This project features a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to showcase their cozy accommodations and welcoming atmosphere through a clean, user-friendly interface.
 
 You can visit the live site here:  
 🔗 [https://alpinecottagebedandbreakfast.com/](https://alpinecottagebedandbreakfast.com/)
@@ -19,7 +19,7 @@ Below are visuals that highlight the website and its main features:
 
 ## 🛠️ Project Overview
 
-This website was fully developed in WordPress, featuring a custom theme, optimized plugins, and design elements thoughtfully crafted to reflect the brand’s visual identity.
+This site was built entirely in WordPress, featuring a custom theme, optimized plugins, and design elements carefully crafted to match the brand’s visual identity.
 ### Key Highlights:
 A modern, fully responsive layout built for seamless desktop and mobile browsing.
 
@@ -65,12 +65,12 @@ Custom post types for streamlined room management and effortless content updates
 
 ## 💡 Learnings & Achievements
 
-This project showcases a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight their cozy accommodations and warm hospitality through a clean, user-friendly layout.
+This project features a fully customized WordPress website for Alpine Cottage Bed & Breakfast, created to showcase their cozy accommodations and warm hospitality through a clean, user-friendly layout.
 
 ---
 
 ## 📬 Contact
-If you’re looking for expert WordPress or Elementor services, I’d be happy to collaborate—feel free to reach out!
+If you’re seeking professional WordPress or Elementor services, I’d love to collaborate—feel free to get in touch!
 **👤 Developer:** Syeda Aneesa  
 **📧 Email:** saneesa@zeestmedia.com]  
 **🌍 Portfolio:** https://aneesa.zeestmedia.com
