@@ -1,6 +1,6 @@
 # 🏡 Alpine Cottage Bed & Breakfast – Modern WordPress Design Project
 
-This project features a fully customized WordPress website for Alpine Cottage Bed & Breakfast, crafted to showcase its cozy accommodations and welcoming atmosphere through a clean, user-friendly design.
+This project showcases a fully custom WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight its cozy accommodations and inviting atmosphere with a clean, user-friendly interface.
 
 You can visit the live site here:  
 🔗 [https://alpinecottagebedandbreakfast.com/](https://alpinecottagebedandbreakfast.com/)
@@ -19,19 +19,19 @@ Below are visuals that highlight the website and its main features:
 
 ## 🛠️ Project Overview
 
-This website was fully developed using WordPress, incorporating a custom theme, optimized plugins, and design elements aligned with the brand’s visual identity.
+This website was built entirely on WordPress, featuring a custom theme, optimized plugins, and design elements that reflect the brand’s visual identity.
 ### Key Highlights:
-Modern, fully responsive layout optimized for seamless browsing on desktop and mobile devices.
+Modern, fully responsive layout ensuring smooth browsing on desktop and mobile devices
 
-Thoughtfully chosen typography paired with a warm color palette to create a cozy cottage feel.
+Carefully selected typography and a warm color palette to evoke a cozy cottage atmosphere
 
-Functional contact form integrated with automated email notifications for easy communication.
+Functional contact form with automated email notifications for seamless communication
 
-Integrated image gallery highlighting room interiors and the overall ambiance.
+Integrated image gallery showcasing room interiors and the overall ambiance
 
-SEO-optimized structure with compressed and optimized media files for faster performance.
+SEO-friendly structure with optimized and compressed media for faster performance
 
-Custom post types enabling efficient room management and easy content updates.
+Custom post types for efficient room management and easy content updates
 
 ---
 
@@ -65,7 +65,7 @@ Custom post types enabling efficient room management and easy content updates.
 
 ## 💡 Learnings & Achievements
 
-This project features a fully customized WordPress website for Alpine Cottage Bed & Breakfast, crafted to showcase its cozy accommodations and welcoming hospitality through a clean, intuitive layout.
+This project presents a fully custom WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight its cozy accommodations and warm hospitality through a clean, intuitive interface.
 
 ## 📬 Contact
 If you’re seeking professional WordPress or Elementor services, I’d love to collaborate—feel free to get in touch!
