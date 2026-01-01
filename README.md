@@ -1,7 +1,6 @@
 # 🏡 Alpine Cottage Bed & Breakfast – Modern WordPress Design Project
 
-This project showcases a fully custom WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight its cozy accommodations and inviting atmosphere with a clean, user-friendly interface.
-
+This project features a fully custom WordPress website for Alpine Cottage Bed & Breakfast, crafted to showcase its cozy accommodations and welcoming ambiance through a clean, intuitive interface.
 You can visit the live site here:  
 🔗 [https://alpinecottagebedandbreakfast.com/](https://alpinecottagebedandbreakfast.com/)
 
@@ -21,17 +20,17 @@ Below are visuals that highlight the website and its main features:
 
 This website was built entirely on WordPress, featuring a custom theme, optimized plugins, and design elements that reflect the brand’s visual identity.
 ### Key Highlights:
-Modern, fully responsive layout ensuring smooth browsing on desktop and mobile devices
+A modern, fully responsive layout providing seamless browsing across desktop and mobile devices.
 
-Carefully selected typography and a warm color palette to evoke a cozy cottage atmosphere
+Thoughtfully chosen typography paired with a warm, inviting color palette to reflect a cozy cottage atmosphere.
 
-Functional contact form with automated email notifications for seamless communication
+A functional contact form with automated email notifications for effortless guest communication.
 
-Integrated image gallery showcasing room interiors and the overall ambiance
+Integrated image gallery highlighting room interiors and the overall welcoming ambiance.
 
-SEO-friendly structure with optimized and compressed media for faster performance
+SEO-optimized structure with compressed media for faster performance and improved search visibility.
 
-Custom post types for efficient room management and easy content updates
+Custom post types enabling efficient room management and easy content updates.
 
 ---
 
@@ -39,14 +38,14 @@ Custom post types for efficient room management and easy content updates
 
 | Category | Tools/Plugins/Resources |
 |-----------|--------------------------|
-| **Platform** | WordPress (Latest Version) |
-| **Theme Base** | Custom-built using Elementor + Custom CSS |
-| **Plugins** | Contact Form 7, WPForms, Elementor, Yoast SEO, WP Super Cache |
-| **Design Tools** | Figma / Adobe XD (for layout planning) |
-| **Languages** | HTML5, CSS3, PHP, JavaScript |
-| **Hosting** | cPanel-based hosting |
-| **Images** | Client-provided and royalty-free stock images |
-| **Performance Optimization** | Image compression, caching, and minified assets |
+| Platform | WordPress (Latest Version) |
+| Theme | Custom-built with Elementor and custom CSS |
+| Plugins | Contact Form 7, WPForms, Elementor, Yoast SEO, WP Super Cache |
+| Design Tools | Figma / Adobe XD (for layout and prototype planning) |
+| Languages | HTML5, CSS3, PHP, JavaScript |
+| Hosting | cPanel-based hosting |
+| Images | Client-provided and royalty-free stock photography |
+| Performance Optimization | Image compression, caching, and minified assets for faster load times |
 
 ---
 
