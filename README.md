@@ -1,4 +1,4 @@
-# 🏡 Alpine Cottage Bed & Breakfast – Modern WordPress Design Project
+#  Alpine Cottage Bed & Breakfast – Modern WordPress Design Project
 
 This project features a fully custom WordPress website for Alpine Cottage Bed & Breakfast, crafted to showcase its cozy accommodations and welcoming ambiance through a clean, intuitive interface.
 You can visit the live site here:  
@@ -6,7 +6,7 @@ You can visit the live site here:
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 Below are visuals that highlight the website and its main features:
 
 ![Home Page](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_11_PMs.png)
@@ -16,7 +16,7 @@ Below are visuals that highlight the website and its main features:
 ![Contact Section](https://github.com/Syedaaneesa/Alpine-cottage/blob/main/alpinecottagebedandbreakfast-com-10-07-2025_08_12_PM%20(1)w.png)
 ---
 
-## 🛠️ Project Overview
+##  Project Overview
 
 This website was built entirely on WordPress, featuring a custom theme, optimized plugins, and design elements that reflect the brand’s visual identity.
 ### Key Highlights:
@@ -34,7 +34,7 @@ Custom post types enabling efficient room management and easy content updates.
 
 ---
 
-## ⚙️ Resources & Tools Used
+##  Resources & Tools Used
 
 | Category | Tools/Plugins/Resources |
 |-----------|--------------------------|
@@ -49,7 +49,7 @@ Custom post types enabling efficient room management and easy content updates.
 
 ---
 
-## 🧩 Effort Breakdown
+##  Effort Breakdown
 
 | Task | Description |
 |------|--------------|
@@ -62,16 +62,16 @@ Custom post types enabling efficient room management and easy content updates.
 
 ---
 
-## 💡 Learnings & Achievements
+##  Learnings & Achievements
 
 This project presents a fully custom WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight its cozy accommodations and warm hospitality through a clean, intuitive interface.
 
-## 📬 Contact
+##  Contact
 If you’re seeking professional WordPress or Elementor services, I’d love to collaborate—feel free to get in touch!
-**👤 Developer:** Syeda Aneesa  
-**📧 Email:** saneesa@zeestmedia.com]  
-**🌍 Portfolio:** https://aneesa.zeestmedia.com
+** Developer:** Syeda Aneesa  
+** Email:** saneesa@zeestmedia.com]  
+** Portfolio:** https://aneesa.zeestmedia.com
 
 ---
-## 📁 Repository Structure
+##  Repository Structure
 
