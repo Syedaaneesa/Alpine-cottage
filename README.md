@@ -2,7 +2,7 @@
 
 This project features a fully custom WordPress website for Alpine Cottage Bed & Breakfast, crafted to showcase its cozy accommodations and welcoming ambiance through a clean, intuitive interface.
 You can visit the live site here:  
-🔗 [https://alpinecottagebedandbreakfast.com/](https://alpinecottagebedandbreakfast.com/)
+ [https://alpinecottagebedandbreakfast.com/](https://alpinecottagebedandbreakfast.com/)
 
 ---
 
