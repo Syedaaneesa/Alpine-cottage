@@ -1,9 +1,11 @@
-#  Alpine Cottage Bed & Breakfast – Modern WordPress Design Project
+# Alpine Cottage Bed & Breakfast – Modern WordPress Design Project
 
-This project features a fully custom WordPress website for Alpine Cottage Bed & Breakfast, crafted to showcase its cozy accommodations and welcoming ambiance through a clean, intuitive interface.
-You can visit the live site here:  
- [https://alpinecottagebedandbreakfast.com/](https://alpinecottagebedandbreakfast.com/)
+This project showcases a fully customized WordPress website developed for Alpine Cottage Bed & Breakfast, designed to highlight its cozy accommodations and warm, welcoming atmosphere. The website features a clean, modern layout with a user-friendly interface, ensuring a seamless browsing experience for visitors.
 
+The design focuses on visual appeal, easy navigation, and clear presentation of services to enhance user engagement and drive bookings.
+
+Explore the live website:
+https://alpinecottagebedandbreakfast.com/
 ---
 
 ##  Project Preview
