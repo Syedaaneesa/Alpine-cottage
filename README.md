@@ -34,6 +34,12 @@ SEO-optimized structure with compressed media for faster performance and improve
 
 Custom post types enabling efficient room management and easy content updates.
 
+Smooth navigation with intuitive menu structure, making it easy for visitors to explore rooms, amenities, and booking options.
+
+Secure and optimized backend setup ensuring fast loading speed, data protection, and reliable performance across all devices.
+
+Integrated call-to-action sections (like “Book Now” or “Check Availability”) to increase conversions and improve user engagement.
+
 ---
 
 ##  Resources & Tools Used
