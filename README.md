@@ -72,7 +72,7 @@ Integrated call-to-action sections (like “Book Now” or “Check Availability
 
 ##  Learnings & Achievements
 
-This project presents a fully custom WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight its cozy accommodations and warm hospitality through a clean, intuitive interface.
+This project presents a fully custom WordPress website for Alpine Cottage Bed & Breakfast, designed to showcase its cozy accommodations and warm hospitality through a clean, modern, and user-friendly interface. The website focuses on providing a seamless browsing experience, allowing visitors to easily explore rooms, amenities, and services while reflecting the comfort and charm of the property. It also emphasizes visual appeal through carefully selected imagery, responsive design, and smooth navigation to ensure accessibility across all devices.
 
 ##  Contact
 If you’re seeking professional WordPress or Elementor services, I’d love to collaborate—feel free to get in touch!
