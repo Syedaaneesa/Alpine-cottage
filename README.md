@@ -4,7 +4,7 @@ This project showcases a fully customized WordPress website developed for Alpine
 
 The design focuses on visual appeal, easy navigation, and clear presentation of services to enhance user engagement and drive bookings.
 
-Live Website : https://alpinecottagebedandbreakfast.com/
+Explore The Live Website : https://alpinecottagebedandbreakfast.com/
 ---
 
 ##  Project Preview
