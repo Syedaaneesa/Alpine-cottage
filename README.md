@@ -20,7 +20,9 @@ Below are visuals that highlight the website and its main features:
 ##  Project Overview
 
 This website was built entirely on WordPress, featuring a custom theme, optimized plugins, and design elements that reflect the brand’s visual identity.
+
 ### Key Highlights:
+
 A modern, fully responsive layout providing seamless browsing across desktop and mobile devices.
 
 Thoughtfully chosen typography paired with a warm, inviting color palette to reflect a cozy cottage atmosphere.
